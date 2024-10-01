@@ -1,4 +1,4 @@
-# Constract Summarization
+# Contract Summarization
 
 ## Model Overview
 

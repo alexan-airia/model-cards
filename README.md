@@ -18,18 +18,18 @@
 ~~- **Data Size:** [Total size of the dataset in terms of number of samples and features.]~~
 ~~- **Preprocessing Steps:** [Outline any preprocessing steps applied to the data.]~~
 
-## Performance Metrics
+~~## Performance Metrics~~
 
-### Evaluation Metrics
-- **Metrics Used:** 
+~~### Evaluation Metrics~~
+~~- **Metrics Used:**~~
   
-### Performance Results:
-- **Metric 1:** 
-- **Metric 2:** 
-- **Metric 3:** 
+~~### Performance Results:~~
+~~- **Metric 1:**~~
+~~- **Metric 2:**~~ 
+~~- **Metric 3:**~~ 
 
-### Benchmarking
-- **Comparison with Baselines:** Describe how
+~~### Benchmarking~~
+~~- **Comparison with Baselines:** Describe how~~
 
 ## Intended Use
 
@@ -43,12 +43,21 @@
 ### Target Audience
 - **Users:** [Identify who the intended users are (e.g., developers, researchers, businesses).]
 
-## Limitations
+### Sample interaction
+- **Sample User Input:**
+- **Sample Assistant Output:**
 
-### Known Limitations
-- **Biases:** [Discuss any known biases in the model and their potential impact.]
-- **Generalization Issues:** [Outline situations where the model may not perform well.]
-- **Ethical Considerations:** [Mention any ethical implications related to usage.]
+
+~~## Limitations~~
+
+~~### Known Limitations~~
+~~- **Biases:** [Discuss any known biases in the model and their potential impact.]~~
+~~- **Generalization Issues:** [Outline situations where the model may not perform well.]~~
+~~- **Ethical Considerations:** [Mention any ethical implications related to usage.]~~
+
+
+
+
 
 ## Maintenance and Updates
 
@@ -78,8 +87,4 @@
 - **https://airia.com/learn-more/)** 
 
 ### License
-- **License Type:** [Specify license under which the model is released.]
-
----
-
-This template serves as a guideline for documenting machine learning models effectively. Customizing it according to your specific model and use case will enhance clarity and usability for all stakeholders involved.
+- **License Type:** [Provider license or Airia Platform license? ]

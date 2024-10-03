@@ -11,25 +11,6 @@
 - **Summary:** Provide a brief overview of the model, including its purpose and functionality.
 - **Architecture:** [Describe the architecture or and any notable features.
 
-## ~~Training Data~~
-
-~~- **Dataset Used:** [Name and description of the dataset(s) used for training.]~~
-~~- **Data Source:** [Where the data was sourced from (e.g., public datasets, proprietary data).]~~
-~~- **Data Size:** [Total size of the dataset in terms of number of samples and features.]~~
-~~- **Preprocessing Steps:** [Outline any preprocessing steps applied to the data.]~~
-
-~~## Performance Metrics~~
-
-~~### Evaluation Metrics~~
-~~- **Metrics Used:**~~
-  
-~~### Performance Results:~~
-~~- **Metric 1:**~~
-~~- **Metric 2:**~~ 
-~~- **Metric 3:**~~ 
-
-~~### Benchmarking~~
-~~- **Comparison with Baselines:** Describe how~~
 
 ## Intended Use
 
@@ -46,17 +27,6 @@
 ### Sample interaction
 - **Sample User Input:**
 - **Sample Assistant Output:**
-
-
-~~## Limitations~~
-
-~~### Known Limitations~~
-~~- **Biases:** [Discuss any known biases in the model and their potential impact.]~~
-~~- **Generalization Issues:** [Outline situations where the model may not perform well.]~~
-~~- **Ethical Considerations:** [Mention any ethical implications related to usage.]~~
-
-
-
 
 
 ## Maintenance and Updates

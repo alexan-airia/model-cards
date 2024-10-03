@@ -8,15 +8,16 @@
 - **Date of Release:** 2024-09-30
 
 ### Description
-- **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
+- **Summary:** This model is fine-tuned for drafting contracts, this model generates a contract template based on initial topic, or other information inputed by the user.
 Architecture: 
-- **Architecture:**  Built on top of GPT-4o.
+- **Architecture:**  Built on top of GPT-4o, with enhancements specifically for contract drafting.
 
 ## Intended Use
 
 ### Use Cases
 - **Primary Use Cases:**
-  - Creates initial contract drafts based on inputted case specifics and legal clauses.
+  - Creating initial contract drafts based on user-provided details.
+  - Generating custom contract templates based on legal clauses or specific requests.
 
 - **Non-intended Use Cases:** This model is not intended for use in generating legal advice or for handling highly sensitive or classified documents without oversight.
 
@@ -25,14 +26,13 @@ Architecture:
 
 ### Sample interaction
 - **Sample User Input:**: You will need to add an “asking“ sentence before inputting the sample content above. Suggestions (or provide something similar):
-Please generate a contract draft for: [link or text of the contract]
-Can you create a basic agreement for: [link or text of the contract]
-Draft a contract template for: [link or text of the contract]
+"Please generate a contract draft for [case details or contract specifics]."
+"Can you create a basic agreement for [input topic]?"
+"Draft a contract template for [specific situation or clauses]."
 
 - **Sample Assistant Output:**
-  - Fornatted draft of a contract
-  
-
+  - Formatted draft of a contract:
+    - This Agreement is made on [Date] between [Party A] and [Party B]...
 
 ## Maintenance and Updates
 
@@ -42,18 +42,11 @@ Draft a contract template for: [link or text of the contract]
 | 1.0            | 2024-09-30  | Initial release               | N/A | N/A |
 
 
-
 ### Release Notes
 #### Version Changes
 - **v1.0** (Release Date: 2024-09-30)
   - Initial release with contract drafting capabilities.
 
-
-#### Future Plans
-- Planned updates: 
-  - Improve the fine-tuning instructions to include in the prompt more legal documents,  the first version contemplated case information but it wasn’t included in the training.
-  - Reduce the system prompt in the training stage.
-  - Improve markdown
 
 ## Contact Information
 

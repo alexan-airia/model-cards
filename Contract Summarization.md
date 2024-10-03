@@ -5,7 +5,7 @@
 ### Model Name
 - **Name:**  ft:gpt-4o-2024-08-06:airia:antropic-summaries-80train-20valid
 - **Version:** 2.1
-- **Date of Release:** 2024-08-06
+- **Date of Release:** 2024-09-24
 
 ### Description
 - **Summary:** This model specifically tailored to summarize commercial contracts. It is fine-tuned to handle both complex and standard commercial agreements, extracting key terms and obligations.

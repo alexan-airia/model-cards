@@ -24,7 +24,17 @@ Architecture:
 - **Users:** Finance and legal teams: incluiding CFO, legal manager and financial analysts. 
   
 ### Sample interaction
-- **Sample User Input:**: ASK: "Can you describe the events leading up to the incident on [date]?" "Is it true that you were aware of the contract's termination clause before signing?" " [link or text of the contract]
+- **Sample User Input:**: ASK: The list shown below is an example on how an user could use this model:
+"Create a LEGAL_SPEND_FORECAST for the next quarter using HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Prepare a LEGAL_EXPENSE_FORECAST for the upcoming quarter based on HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Draft a QUARTERLY_LEGAL_COST_FORECAST utilizing HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Develop a LEGAL_COST_ESTIMATE for the next quarter using HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Generate a LEGAL_EXPENDITURE_FORECAST for the next quarter based on HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Create a LEGAL_BUDGET_FORECAST for the upcoming quarter using HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Prepare a LEGAL_SPENDING_PROJECTION for the next quarter considering HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Draft a LEGAL_FEE_FORECAST for the upcoming quarter using HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Develop a LEGAL_COST_PROJECTION for the next quarter based on HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES.",
+    "Generate a LEGAL_EXPENSE_PREDICTION for the upcoming quarter using HISTORICAL_LEGAL_SPEND, ONGOING_CASES, and EXTERNAL_COUNSEL_RATES."
 - **Sample Assistant Output:**
   - Analysis of the historical trends and main insights of the inputs.
   - Forecast of the legal budget (USD) for the next quarter.
@@ -49,7 +59,7 @@ Architecture:
 
 #### Future Plans
 - Planned updates: 
-  - 
+  - Consider other data inputs such as important events.
 
 ## Contact Information
 

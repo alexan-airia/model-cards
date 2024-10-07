@@ -17,9 +17,7 @@ Architecture:
 
 ### Use Cases
 - **Primary Use Cases:**
-  - Document Review and Summary
-  - Anticipating Cross-Examination
-  - Risk and Consistency Analysis
+  - Budget forecasting and resources allocation.
 - **Non-intended Use Cases:** This model is not intended for use in generating legal advice or for handling highly sensitive or classified documents without oversight.
 
 ### Target Audience
@@ -28,8 +26,8 @@ Architecture:
 ### Sample interaction
 - **Sample User Input:**: ASK: "Can you describe the events leading up to the incident on [date]?" "Is it true that you were aware of the contract's termination clause before signing?" " [link or text of the contract]
 - **Sample Assistant Output:**
-  - List of mock questions
-  - Timeline of events
+  - Analysis of the historical trends and main insights of the inputs.
+  - Forecast of the legal budget (USD) for the next quarter.
 
 
 
@@ -51,9 +49,7 @@ Architecture:
 
 #### Future Plans
 - Planned updates: 
-  - Improve the fine-tuning instructions to include in the prompt more legal documents,  the first version contemplated case information but it wasn’t included in the training.
-  - Reduce the system prompt in the training stage.
-  - Improve markdown
+  - 
 
 ## Contact Information
 

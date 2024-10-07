@@ -63,4 +63,4 @@ Architecture:
 - **https://airia.com/learn-more/** 
 
 ### License
-- **License Type:** [Provider license or Airia Platform license? ]
+- **License Type:** Airia Model License

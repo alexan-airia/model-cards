@@ -9,7 +9,7 @@
 
 ### Description
 - **Summary:** This model generates a forecast of the legal department's expenses for the upcoming quarter, using the following inputs: historical quarterly legal spending, the number of ongoing cases, and external counsel rates. By providing these insights, it enables better budgeting and resource allocation, ultimately improving financial planning and decision-making.
-- **Architecture:**  Built on top of GPT-4o, the model is fine-tuned specifically for budget forecasting analysis, with the ability to analyze relevant inputs to augment the insights. 
+- **Architecture:**  Built on top of GPT-4o, the model is fine-tuned specifically for budget forecasting analysis, with the ability to analyze relevant inputs and giving more information for financial decision makers. 
 
 ## Intended Use
 

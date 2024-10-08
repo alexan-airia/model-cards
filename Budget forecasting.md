@@ -9,8 +9,6 @@
 
 ### Description
 - **Summary:** This model creates a forecast of the expenses of a legal department for the next quarter, based on the following inputs: Historical legal spend per quarter, quantity of ongoing cases and external counsel rates.
-
-Architecture: 
 - **Architecture:**  Built on top of GPT-4o.
 
 ## Intended Use

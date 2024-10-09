@@ -53,9 +53,9 @@
 
 ### Release Notes
 #### Version Changes
-- **[1.0]** (Release Date: 2024-10-08)
+- **1.0** (Release Date: 2024-10-08)
   - Added new features: [List new features or improvements.]
-- **[1.1]** (Release Date: 2024-10-09)
+- **1.1** (Release Date: 2024-10-09)
   - Added new features: Counterpart strategy analysis
 
 #### Future Plans

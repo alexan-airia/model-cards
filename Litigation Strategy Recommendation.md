@@ -9,7 +9,7 @@
 
 ### Description
 - **Summary:** Airia's Litigation Strategy Recommendations 4o model generates potential litigation strategies based on the facts of a given case. It evaluates the risks and benefits of each course of action, providing legal teams with informed recommendations to pursue the most effective strategies for a favorable outcome. Additionally, the model identifies trends or patterns that could be exploited by the counterpart to undermine your defenses.
-- **Architecture:** Built on top of GPT-4o, focused on litigation strategies: analyzing potential winning actions and counterparty tactics to win the case.
+- **Architecture:** gpt-4o-2024-08-06 fine-tuned.
 
 ## Intended Use
 

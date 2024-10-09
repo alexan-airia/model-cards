@@ -37,7 +37,7 @@
     "Identify traits that could influence juror impartiality."
 - **Sample Assistant Output:**
 ```
-  List specific traits or biases:
+  Based on the given LEGAL ISSUE and CASE SUMMARY, here is a comprehensive list of at least 10 specific traits or biases to watch for during jury selection that could negatively impact the defense:
   1. Possible trait #1
   2. Possible trait #2
   ...

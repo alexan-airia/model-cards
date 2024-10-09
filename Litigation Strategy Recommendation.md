@@ -54,7 +54,7 @@
 ### Release Notes
 #### Version Changes
 - **1.0** (Release Date: 2024-10-08)
-  - Added new features: [List new features or improvements.]
+  - Initial release with analysis of different litigation strategies.
 - **1.1** (Release Date: 2024-10-09)
   - Added new features: Counterpart strategy analysis
 

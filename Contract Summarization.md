@@ -3,9 +3,9 @@
 ## Model Overview
 
 ### Model Name
-- **Name:**  ft:gpt-4o-2024-08-06:airia:antropic-summaries-80train-20valid:AB2DUXBU
-- **Version:** 1.0
-- **Date of Release:** 2024-09-24
+- **Name:**  ft:gpt-4o-2024-08-06:airia:contract-summarization-2024-10-09:AGVcoOQo
+- **Version:** 1.1
+- **Date of Release:** 2024-10-09
 
 ### Description
 - **Summary:** This model was specifically tailored to summarize contracts. It is fine-tuned to handle both complex and standard agreements, extracting key terms and obligations.
@@ -51,11 +51,12 @@
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 0.1            | 2024-08-29  | Initial release               | N/A | N/A |
 | 1.0            | 2024-09-24   | Added more data; Finetuned adjusted for organic data    | N/A      | Enhanced summarization of key contract clauses |
+| 1.1            | 2024-10-09   | Removed system prompt dependency    | N/A      | N/A  |
 
 
 ### Release Notes
 #### Version Changes
-- **v0.1** (Release Date: 2024-09-24)
+- **v0.1** (Release Date: 2024-08-29)
   - Initial release with basic summarization capabilities for commercial contracts.
   - Focus on extracting key legal provisions such as term, termination, IP rights, confidentiality, and payment terms.
 
@@ -63,8 +64,10 @@
   - Improved formatting of summary output.
   - Syntetic data creation adapted to follow organic data format
 
-#### Future Plans
-  - Expand the model's ability to summarize more specialized contracts.
+- **v1.1** (Release Date: 2024-10-09)
+  - No System Prompt required
+  - Performs the same as v1.0
+
 
 ## Contact Information
 

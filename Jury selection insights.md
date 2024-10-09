@@ -16,9 +16,8 @@
 
 ### Use Cases
 - **Primary Use Cases:**
-  -
-  -
-  -
+  - Use the model to identify and screen potential juror biases, ensuring the assembly of an impartial jury.
+  - Proactively flag and address potential juror biases as part of pre-trial procedures to support fair trial outcomes.
 - **Non-intended Use Cases:** Litigating Attorneys, In-House Counsel, Legal Consultants, Judicial Clerks, Law Firms, Legal Academics and Researchers, Law Students, Litigation Finance Professionals, Arbitrators and Mediators, Legal Technology Developers.
 
 ### Target Audience

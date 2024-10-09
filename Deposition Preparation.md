@@ -9,8 +9,8 @@
 
 ### Description
 - **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
-Architecture: 
-- **Architecture:**  Built on top of GPT-4o.
+
+- **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
 
 ## Intended Use
 
@@ -25,7 +25,10 @@ Architecture:
 - **Users:** Legal teams, including attorneys, paralegals, and in-house counsel who are responsible for preparing witnesses for depositions in litigation cases.
   
 ### Sample interaction
-- **Sample User Input:**: ASK: "Can you describe the events leading up to the incident on [date]?" "Is it true that you were aware of the contract's termination clause before signing?" " [link or text of the contract]
+- **Sample User Input:**: 
+  - "Can you describe the events leading up to the incident on [date]?"
+  - "Is it true that you were aware of the contract's termination clause before signing?"
+  - " [link or text of the contract]
 - **Sample Assistant Output:**
   - List of mock questions
   - Timeline of events
@@ -47,12 +50,6 @@ Architecture:
 - **v1.0** (Release Date: 2024-09-30)
   - Initial release with basic deposition creation capabilities for litigation. 
 
-
-#### Future Plans
-- Planned updates: 
-  - Improve the fine-tuning instructions to include in the prompt more legal documents,  the first version contemplated case information but it wasn’t included in the training.
-  - Reduce the system prompt in the training stage.
-  - Improve markdown
 
 ## Contact Information
 

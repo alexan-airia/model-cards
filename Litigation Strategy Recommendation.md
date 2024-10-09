@@ -3,7 +3,7 @@
 ## Model Overview
 
 ### Model Name
-- **Name:** Litigation Strategy Recommendation
+- **Name:** ft:gpt-4o-2024-08-06:airia:litigation-strategy-recommendation-2024-10-08:AGArDV9V
 - **Version:** 1.1
 - **Date of Release:** 2024-10-09
 

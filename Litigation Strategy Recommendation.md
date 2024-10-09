@@ -59,7 +59,7 @@
   - Added new features: Counterpart strategy analysis
 
 #### Future Plans
-- Planned updates: [List any upcoming features or improvements that are in development.]
+- Planned updates: No updates planned.
 
 ## Contact Information
 

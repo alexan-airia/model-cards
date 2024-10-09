@@ -3,7 +3,7 @@
 ## Model Overview
 
 ### Model Name
-- **Name:** Jury selection insights
+- **Name:** ft:gpt-4o-2024-08-06:airia:litigation-jury-selection-insights-2024-10-08:AGI84QwA
 - **Version:** 1.0
 - **Date of Release:** 2024-10-08
 

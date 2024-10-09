@@ -53,10 +53,10 @@
 
 ### Release Notes
 #### Version Changes
-- **[Version Number]** (Release Date: YYYY-MM-DD)
+- **[1.0]** (Release Date: 2024-10-08)
   - Added new features: [List new features or improvements.]
-  - Bug fixes: [Describe any bugs that were fixed.]
-  - Performance improvements: [Detail any enhancements in performance metrics.]
+- **[1.1]** (Release Date: 2024-10-09)
+  - Added new features: Counterpart strategy analysis
 
 #### Future Plans
 - Planned updates: [List any upcoming features or improvements that are in development.]

@@ -11,8 +11,7 @@
 ### Description
 
 - **Summary:** Airia's Contract Review for Risk Identification model is fine-tuned and designed to assist with contract analysis across three key use cases by identifying risks, extracting key terms, and providing recommendations for mitigating potential issues. Its capabilities overlap in tasks that involve risk identification, summarizing key terms, and flagging problematic clauses based on legal standards.
-- **Architecture:** Built on GPT-4o, the model is fine-tuned specifically for identifying risks, extracting key terms, and providing recommendations for mitigating potential issues in contracts.
-
+- **Architecture:** gpt-4o-2024-08-06 fine-tuned.
 ## Intended Use
 
 ### Use Cases
@@ -36,33 +35,35 @@
 - **Sample Assistant Output:**
 
   ```markdown
-  # Risk Analysis and Mitigation Report: AI Research and Development Agreement
+  # Risk Analysis and Mitigation Report
 
   ## 1. High-Risk Clauses
 
-  ### 1.1 Intellectual Property (Section 4)
+  ### 1.1 Intellectual Property (citation 1)
 
   #### Risks:
-  - Complete assignment of Foreground IP to the Company
-  - Broad license to Background IP
-  - Potential for disputes over inventorship
+  - ...
+  - ...
+  - ...
 
   #### Mitigations:
-  - Negotiate joint ownership or revenue-sharing for Foreground IP
-  - Limit Background IP license to specific, necessary uses
-  - Clearly define inventorship criteria and dispute resolution process
+  - ...
+  - ...
+  - ...
 
-  ### 1.2 Confidentiality (Section 5)
+  ### 1.2 Confidentiality (citation 2)
 
   #### Risks:
-  - 10-year confidentiality obligation
-  - Broad definition of Confidential Information
-  - Limited exceptions to confidentiality
+  - ...
+  - ...
+  - ...
 
   #### Mitigations:
-  - Reduce confidentiality period to 5 years
-  - Narrow the definition of Confidential Information
-  - Expand exceptions to include information independently developed
+  - ...
+  - ...
+  - ...
+
+  [...]
   ```
 
 ## Maintenance and Updates
@@ -92,4 +93,4 @@
 
 ### License
 
-- **License Type:** [Provider license or Airia Platform license? ]
+- **License Type:** Airia Model License

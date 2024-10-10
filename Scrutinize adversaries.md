@@ -22,7 +22,7 @@
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience
-- **Users:** [Identify who the intended users are (e.g., developers, researchers, businesses).]
+- **Users:** Litigating Attorneys, In-House Counsel, Legal Consultants, Judicial Clerks, Law Firms, Legal Academics and Researchers, Law Students, Litigation Finance Professionals, Arbitrators and Mediators, Legal Technology Developers.
 
 ### Sample interaction
 - **Sample User Input:**
@@ -39,7 +39,8 @@
 
 ### Release Notes
 #### Version Changes
-
+- **v1.0** (Release Date: 2024-10-08)
+  - Initial release.
 
 #### Future Plans
 - Planned updates: No upcoming changes.

@@ -16,10 +16,10 @@
 
 ### Use Cases
 - **Primary Use Cases:**
-  - Provide insights into competitor actions and strategies, aiding in market positioning, crisis management, and M&A activities.
   - Assist legal teams in crafting winning case strategies by analyzing opponent actions.
   - Enable business and legal teams to anticipate challenges from competitors or adversaries, understand potential defenses and counterarguments, and respond proactively with tailored strategies based on insights into opponent behaviors and historical actions.
-  - Support detailed case analysis by identifying key inconsistencies
+  - Support detailed case analysis by identifying key inconsistencies and tracing document trails to find potential damages in litigation scenarios.
+ 
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience

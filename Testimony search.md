@@ -19,6 +19,7 @@
   - Automating the search for relevant testimonies to develop compelling legal strategies and prepare for witness examination.
   - Reviewing document transcripts to identify inconsistencies or corroborate details, crucial for shaping arguments or cross-examinations.
   - Enhancing the discovery phase by efficiently locating key witness statements that strengthen or weaken a case's legal position.
+
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience

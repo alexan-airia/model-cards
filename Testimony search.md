@@ -50,7 +50,7 @@ A list eith the top 5 most similar cases, with relevant information about them.
 ### Version History
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
-| 1.0            | 2024-09-29   | Initial release               |    |  |
+| 1.0            | 2024-09-29   | Initial release               |  N/A  | N/A |
 
 
 ### Release Notes

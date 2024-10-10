@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-10-01
 
 ### Description
-- **Summary:** This model excels at developing winning case strategies and thoroughly analyzing opposing parties. Fine-tuned from OpenAI's 4o mini, this model provides detailed insights into adversary actions, helping legal and business teams anticipate challenges and respond proactively.
+- **Summary:** This model excels at developing winning case strategies and thoroughly analyzing opposing parties. It provides detailed insights into adversary actions, helping legal and business teams anticipate challenges and respond proactively.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 
 
@@ -20,13 +20,16 @@
   - Enable business and legal teams to anticipate challenges from competitors or adversaries, understand potential defenses and counterarguments, and respond proactively with tailored strategies based on insights into opponent behaviors and historical actions.
   - Support detailed case analysis by identifying key inconsistencies and tracing document trails to find potential damages in litigation scenarios.
  
+ 
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience
 - **Users:** Litigating Attorneys, law firms, corporate legal teams, business strategists, compliance officers, intellectual property attorneys, litigation support services, competitive intelligence analysts, mergers and acquisitions consultants, regulatory affairs specialists, corporate executives.
 
 ### Sample interaction
-- **Sample User Input:** As a skilled legal assistant, your task is to perform a detailed analysis of adversaries involved in a legal case by scrutinizing the provided legal documents:
+- **Sample User Input:** 
+  - As a skilled legal assistant, your task is to perform a detailed analysis of adversaries involved in a legal case by scrutinizing the provided documents: [LEGAL DOCS].
+
 - **Sample Assistant Output:**
   ```
     <case_summary>
@@ -58,8 +61,6 @@
 - **v1.0** (Release Date: 2024-10-08)
   - Initial release.
 
-#### Future Plans
-- Planned updates: No upcoming changes.
 
 ## Contact Information
 

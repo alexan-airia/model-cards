@@ -1,4 +1,4 @@
-# Jury selection insights.
+# Jury selection insights
 
 ## Model Overview
 

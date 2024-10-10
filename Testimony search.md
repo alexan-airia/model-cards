@@ -25,22 +25,23 @@
 - **Users:** 
 
 ### Sample interaction
-- **Sample User Input:** 
+- **Sample User Input:** The user must request a testimony search based on legal documents such as depositions and trial transcriptions that could lead to implement a testimony search process. For example:
+  "Please do a testimony search with the following case details: [CASE DETAILS], [DEPOSITION TRANSCRIPT]".
 - **Sample Assistant Output:**
 ```
 <testimony_search>
-[Include your detailed testimony search here, with questions and answers reflecting the nuances of the case]
+A list of with questions and answers reflecting the nuances of the case.
 </testimony_search>
 <strategy_review>
 <winning_strategies>
-[List and explain possible strategies for winning the case]
+A list with possible strategies to win the case.
 </winning_strategies>
 <counterpart_strategies>
-[Identify trends or paths that could be used by the counterpart to attack]
+Identify trends or paths that could be used by the counterpart.
 </counterpart_strategies>
 </strategy_review>
 <similar_cases>
-[List the top 5 most similar cases with relevant information]
+A list eith the top 5 most similar cases, with relevant information about them.
 </similar_cases>
 ```
 

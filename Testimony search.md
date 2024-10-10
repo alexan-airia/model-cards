@@ -23,7 +23,7 @@
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience
-- **Users:** Litigating attorneys, paralegals, law firms, in-house legal teams, judicial clerks, legal consultants, investigators, litigation finance firms
+- **Users:** Litigating attorneys, paralegals, law firms, in-house legal teams, judicial clerks, legal consultants, investigators, litigation finance firms.
 
 ### Sample interaction
 - **Sample User Input:** The user must request a testimony search based on legal documents such as depositions and trial transcriptions that could lead to implement a testimony search process. For example:

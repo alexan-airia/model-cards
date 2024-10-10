@@ -55,7 +55,8 @@ A list eith the top 5 most similar cases, with relevant information about them.
 
 ### Release Notes
 #### Version Changes
-
+- **v1.0** (Release Date: 2024-09-29)
+  - Initial release.
 
 ## Contact Information
 

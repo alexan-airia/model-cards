@@ -25,7 +25,7 @@
 
 ### Target Audience
 
-- **Users:** Legal teams.
+- **Users:** Litigating Attorneys, In-House Counsel, Legal Consultants, Judicial Legal Teams, Clerks, Law Firms, Legal Academics and Researchers, Law Students, Litigation Finance Professionals, Arbitrators and Mediators, Legal Technology Developers.
 
 ### Sample interaction
 

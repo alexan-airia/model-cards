@@ -1,4 +1,4 @@
-# Jury selection insights.
+# Jury selection insights
 
 ## Model Overview
 
@@ -21,7 +21,7 @@
 - **Non-intended Use Cases:** Litigating Attorneys, In-House Counsel, Legal Consultants, Judicial Clerks, Law Firms, Legal Academics and Researchers, Law Students, Litigation Finance Professionals, Arbitrators and Mediators, Legal Technology Developers.
 
 ### Target Audience
-- **Users:** Litigating Attorneys, In-House Counsel, Legal Consultants, Judicial Clerks, Law Firms, Legal Academics and Researchers, Law Students, Litigation Finance Professionals, Arbitrators and Mediators, Legal Technology Developers.
+- **Users:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Sample interaction
 - **Sample User Input:** "Analyze factors that could affect jury selection.",

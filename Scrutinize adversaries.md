@@ -23,7 +23,7 @@
 - **Non-intended Use Cases:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Target Audience
-- **Users:** Law firms, corporate legal teams, business strategists, compliance officers, intellectual property attorneys, litigation support services, competitive intelligence analysts, mergers and acquisitions consultants, regulatory affairs specialists, corporate executives.
+- **Users:** Litigating Attorneys, law firms, corporate legal teams, business strategists, compliance officers, intellectual property attorneys, litigation support services, competitive intelligence analysts, mergers and acquisitions consultants, regulatory affairs specialists, corporate executives.
 
 ### Sample interaction
 - **Sample User Input:** As a skilled legal assistant, your task is to perform a detailed analysis of adversaries involved in a legal case by scrutinizing the provided legal documents:

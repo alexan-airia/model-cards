@@ -1,4 +1,4 @@
-# Model Card Template
+# Litigation Strategy Recommendation
 
 ## Model Overview
 

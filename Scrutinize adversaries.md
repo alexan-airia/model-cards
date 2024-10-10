@@ -58,7 +58,7 @@
 
 ### Release Notes
 #### Version Changes
-- **v1.0** (Release Date: 2024-10-08)
+- **v1.0** (Release Date: 2024-10-01)
   - Initial release.
 
 

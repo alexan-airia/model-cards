@@ -29,7 +29,19 @@
 - **Sample User Input:** As a skilled legal assistant, your task is to perform a detailed analysis of adversaries involved in a legal case by scrutinizing the provided legal documents:
 - **Sample Assistant Output:**
   ```
- 
+    <case_summary>
+    Summary of the case, identifying the key themes, entities, and relationships across multiple documents, as well as any inconsistencies.
+    </case_summary>
+    
+    <strategy_review>
+    <winning_strategies>
+    List and explanation of possible strategies for winning the case.
+    </winning_strategies>
+    
+    <counterpart_strategies>
+    Review of trends and paths that could be used by the counterpart to attack.
+    </counterpart_strategies>
+    </strategy_review>
   ```
 
 

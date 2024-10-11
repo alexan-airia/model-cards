@@ -26,7 +26,9 @@ blob:https://airia.atlassian.net/72159ec7-710a-4fd3-b4e5-e166920e1005![image](ht
 - **Users:** Litigation attorneys, legal assistants, in-house counsel, law firms, legal tech providers, legal operations teams, government legal departments.
 
 ### Sample interaction
-- **Sample User Input:** 
+- **Sample User Input:** The model generates up to 30 interrogatory questions based on the case info. and legal docs provided by the user.
+"Create an interrogatory based on the following complaint = [COMPLAINT]"
+
 - **Sample Assistant Output:** 
 ```
   1. Question #1

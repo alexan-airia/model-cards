@@ -22,7 +22,7 @@
 - **Non-intended Use Cases:** This model should not be used for providing pricing advice or in highly sensitive decision contexts without oversight by a pricing professional.
 
 ### Target Audience
-- **Users:** Pricing analysts, category managers, marketing areas, pricing consultants.
+- **Users:** Pricing analysts, category managers, marketing areas, pricing consultants, e-commerce analyst, product managers, category buyer.
 
 ### Sample interaction
 - **Sample User Input:** The user should provide information related with pricing decisions such as:

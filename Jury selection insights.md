@@ -9,7 +9,7 @@
 
 ### Description
 - **Summary:** This model identifies traits or biases that could negatively impact the defense during jury selection in cases involving specific legal issues. It helps legal teams flag potential juror concerns, improving the chances of assembling an impartial jury.
-- **Architecture:** Fine-tune gpt-4o-2024-08-06.
+- **Architecture:** gpt-4o-2024-08-06 fine-tuned
 
 
 ## Intended Use
@@ -24,16 +24,14 @@
 - **Users:** This model should not be used for providing final legal advice or in highly sensitive legal contexts without oversight by a human legal professional.
 
 ### Sample interaction
-- **Sample User Input:** "Analyze factors that could affect jury selection.",
-    "Identify key traits to consider during jury selection.",
-    "Review biases to avoid in potential jurors.",
-    "Assess potential juror traits for the case.",
-    "Identify biases that could sway jury decisions.",
-    "Evaluate juror traits that could impact selection.",
-    "Analyze potential biases during jury selection.",
-    "Review traits in potential juror profiles.",
-    "Assess biases that may shape juror opinions.",
-    "Identify traits that could influence juror impartiality."
+- **Sample User Input:** 
+  - Analyze factors that could affect jury selection. [CASE SUMMARY/LEGAL DOCS].
+  - Identify key traits to consider during jury selection. [CASE SUMMARY/LEGAL DOCS].
+  - Review biases to avoid in potential jurors. [CASE SUMMARY/LEGAL DOCS].
+  - Assess potential juror traits for the case. [CASE SUMMARY/LEGAL DOCS].
+  - Identify biases that could sway jury decisions. [CASE SUMMARY/LEGAL DOCS].
+  - Evaluate juror traits that could impact selection. [CASE SUMMARY/LEGAL DOCS].
+
 - **Sample Assistant Output:**
 ```
   Based on the given LEGAL ISSUE and CASE SUMMARY, here is a comprehensive list of at least 10 specific traits or biases to watch for during jury selection that could negatively impact the defense:
@@ -57,9 +55,6 @@
 #### Version Changes
 - **v1.0** (Release Date: 2024-10-08)
   - Initial release.
-
-#### Future Plans
-- Planned updates: Add new 
 
 ## Contact Information
 

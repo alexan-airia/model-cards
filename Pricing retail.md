@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-09-25
 
 ### Description
-- **Summary:** 
+- **Summary:** This model provides an insightful analysis of a given retail product, useful for pricing decision making and marketing purposes based on optimized prices.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 
 
@@ -37,9 +37,9 @@
   
 - **Sample Assistant Output:**
 ```
-### Product Overview: ...
-### Market Position: ...
-### Recommendations: ...
+### Product Overview: Target market of the product.
+### Market Position: Analysis of the market based on price.
+### Recommendations: Recommendations based on the information given by the user.
 ```
 
 ## Maintenance and Updates

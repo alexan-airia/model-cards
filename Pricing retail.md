@@ -1,4 +1,4 @@
-# Pricing optimization insights in retail
+# Pricing optimization insights (retail)
 
 ## Model Overview
 

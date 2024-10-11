@@ -33,7 +33,7 @@
   - Previous price of the product
   - Competitors price
   This is an example of how use to the model:
-  "Please explain the following price optimization: Product: [NAME], Optimized price:[OPTMIZED PRICE], Date: [DATE OF THE FORECASTED PERIOD],Sales in that period: [SALES], previous price: [OLD PRICE] ,Competitor #1 price:99.99 ,Competitor #2 price:129.99"
+  "Please explain the following price optimization: Product: [NAME], Optimized price:[OPTMIZED PRICE], Date: [DATE OF THE FORECASTED PERIOD],Sales in that period: [SALES], previous price: [LAST MONTH PRICE] ,Competitor #1 price:[COMPETITOR PRICE #1]"
   
 - **Sample Assistant Output:**
 ```

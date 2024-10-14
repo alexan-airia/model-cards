@@ -10,6 +10,7 @@
 ### Description
 - **Summary:** This model is designed to assist legal teams in reviewing contract renewals by automatically comparing two versions of a contract. It highlights changes, identifies risks, and summarizes key differences between the older and renewed versions, with a special focus on legal risks. 
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

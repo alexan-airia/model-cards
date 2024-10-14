@@ -13,6 +13,7 @@
 - **Summary:** Airia's Interrogatory Answers Based on Documents 4o model is specifically designed to assist legal professionals in efficiently responding to interrogatories by leveraging auxiliary documents.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

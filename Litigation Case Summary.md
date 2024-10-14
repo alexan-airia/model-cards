@@ -9,6 +9,7 @@
 ### Description
 - **Summary:** Airia's Litigation Case Summary model generates a concise summary of a case, from the provided case documents, outlining the legal issue, arguments from both sides, and the final ruling. It includes any notable dissenting opinions.
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

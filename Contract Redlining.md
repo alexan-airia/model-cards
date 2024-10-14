@@ -12,6 +12,7 @@
 
 - **Summary:** This model is designed to assist legal teams in contract redlining. Prepared with a playbook, the model can identify problematic clauses, rewrite them, and even add missing or required clauses, leaving just the final review up to lawyers.
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

@@ -13,6 +13,7 @@
 - **Summary:** Airia's Contract Obligation Tracking and Compliance 4o model generates comprehensive lists of key contractual obligations and compliance timelines based on the contents of a given contract. It identifies critical deadlines and assesses their urgency, providing legal teams with a clear overview of responsibilities and time-sensitive tasks to ensure thorough contract compliance.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

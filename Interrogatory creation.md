@@ -12,9 +12,6 @@
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 - **Recommended Temperature:** 0.1
 
-blob:https://airia.atlassian.net/72159ec7-710a-4fd3-b4e5-e166920e1005![image](https://github.com/user-attachments/assets/4eecbe59-b408-4f7a-8a99-8f661cdf3321)
-
-
 ## Intended Use
 
 ### Use Cases

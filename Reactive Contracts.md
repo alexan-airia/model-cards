@@ -13,6 +13,7 @@
 - **Summary:** Airia's Reactive Contracts 4o model is designed to help legal professionals in the event of a data breach (or other reactive situation) to review every contract, understand its content, and determine whether a reaction is required.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

@@ -12,6 +12,8 @@
 
 - **Summary:** Airia's Contract Review for Risk Identification model is fine-tuned and designed to assist with contract analysis across three key use cases by identifying risks, extracting key terms, and providing recommendations for mitigating potential issues. Its capabilities overlap in tasks that involve risk identification, summarizing key terms, and flagging problematic clauses based on legal standards.
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
+  
 ## Intended Use
 
 ### Use Cases

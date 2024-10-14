@@ -10,6 +10,7 @@
 ### Description
 - **Summary:** Airia's Testimony search 4o model provides targeted questions and answers, highlighting crucial case details. The strategy review includes winning strategies for success and counterpart strategies that anticipate opposing tactics. The similar cases section lists the top five relevant cases, offering useful precedents. This concise structure saves time, sharpens focus, and strengthens legal strategy.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
+- **Recommended Temperature:** 0.1
 
 
 ## Intended Use

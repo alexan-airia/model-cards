@@ -13,6 +13,7 @@
 - **Summary:** Airia's Contract Obligation Monitoring 4o model generates a comprehensive list of upcoming contractual obligations (e.g., renewal dates, payment deadlines) from user provided contracts and it recommends actions to ensure compliance.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

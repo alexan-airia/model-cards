@@ -10,6 +10,7 @@
 ### Description
 - **Summary:** This model identifies traits or biases that could negatively impact the defense during jury selection in cases involving specific legal issues. It helps legal teams flag potential juror concerns, improving the chances of assembling an impartial jury.
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned
+- **Recommended Temperature:** 0.1
 
 
 ## Intended Use

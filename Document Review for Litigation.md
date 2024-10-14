@@ -12,6 +12,7 @@
 
 - **Summary:** This model is designed to assist legal teams in analyzing legal documents for relevance to a specific litigation case, identifying any privileged information or documents that are critical to the case.
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

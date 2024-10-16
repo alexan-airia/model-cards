@@ -17,9 +17,9 @@
 
 ### Use Cases
 - **Primary Use Cases:**
-  - 
-  - 
-  - 
+  - Risk Assessment and Prevention.
+  - Chronic Condition Management.
+  - Medication Interaction Screening.
 
 - **Non-intended Use Cases:** This model should not be used for providing final health advice or in highly sensitive health contexts without oversight by a medical professional.
 

@@ -11,6 +11,7 @@
 - **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
 
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

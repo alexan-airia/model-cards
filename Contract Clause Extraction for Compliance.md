@@ -13,6 +13,7 @@
 - **Summary:** Airia's Contract Clause Extraction for Compliance 4o model performs a meticulous examination of a contract to identify and extract all clauses pertaining to compliance with a specific regulation. The model also conducts an evaluation of these extracted clauses, assessing their alignment with the legal requirements of a designated jurisdiction.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

@@ -11,6 +11,7 @@
 - **Summary:** This model is fine-tuned for drafting contracts, this model generates a contract template based on initial topic, or other information inputed by the user.
 
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

@@ -10,6 +10,7 @@
 ### Description
 - **Summary:** This model excels at developing winning case strategies and thoroughly analyzing opposing parties. It provides detailed insights into adversary actions, helping legal and business teams anticipate challenges and respond proactively.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
+- **Recommended Temperature:** 0.1
 
 
 ## Intended Use

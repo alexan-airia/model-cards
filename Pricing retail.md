@@ -10,7 +10,7 @@
 ### Description
 - **Summary:** This model provides an insightful analysis of a given retail product, useful for pricing decision making and marketing purposes based on optimized prices.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
-
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

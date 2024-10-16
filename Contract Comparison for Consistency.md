@@ -13,6 +13,7 @@
 - **Summary:** Airia's Contract Comparison for Consistency 4o model is designed to compare two contracts and highlight discrepancies across key areas such as liability, payment terms, and obligations. Fine-tuned to detect nuanced differences, this model provides a clear overview of the variations and assesses potential impacts on legal and business outcomes. It helps legal teams ensure consistency and identify risks associated with contract deviations.
 
 - **Architecture:** gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

@@ -10,6 +10,7 @@
 ### Description
 - **Summary:** This model was specifically tailored to summarize contracts. It is fine-tuned to handle both complex and standard agreements, extracting key terms and obligations.
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
+- **Recommended Temperature:** 0.1
 
 ## Intended Use
 

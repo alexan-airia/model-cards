@@ -31,7 +31,26 @@
 
 - **Sample Assistant Output:**
 ```
+PERSONALIZED_TREATMENT_PLAN:
+1. Disease #1 management:
+   Recommended medication/supplement:
+   Dosage:
+   Rationale:
+   Monitoring:
+2. Disease #2 management:
+   Recommended medication/supplement:
+   Dosage:
+   Rationale:
+   Monitoring:
+...
+N. Disease #N management:
+   Recommended medication/supplement:
+   Dosage:
+   Rationale:
+   Monitoring:
 
+Additional Recommendations/Considerations:
+List of recommendations based on patient condition.
 ```
 
 ## Maintenance and Updates

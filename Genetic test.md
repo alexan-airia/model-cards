@@ -28,7 +28,11 @@
 
 ### Sample interaction
 - **Sample User Input:** 
-
+  - Do a genetic test for PATIENT_GENETIC_PROFILE and suggest a treatment plan based on MEDICATION_OPTIONS. Include risks and benefits.
+  - Analyze PATIENT_GENETIC_PROFILE. Recommend medications and explain the risks and benefits.
+  - Using PATIENT_GENETIC_PROFILE, recommend the best MEDICATION_OPTIONS and explain any risks.
+  - Based on PATIENT_GENETIC_PROFILE, suggest a personalized treatment plan. Discuss the risks and benefits with TREATMENT_OPTIONS.
+  - Review PATIENT_GENETIC_PROFILE and recommend suitable MEDICATIONS. Include possible risks and benefits.
 - **Sample Assistant Output:**
 ```
 PERSONALIZED_TREATMENT_PLAN:

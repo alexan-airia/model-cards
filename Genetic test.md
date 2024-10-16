@@ -33,6 +33,7 @@
   - Using PATIENT_GENETIC_PROFILE, recommend the best MEDICATION_OPTIONS and explain any risks.
   - Based on PATIENT_GENETIC_PROFILE, suggest a personalized treatment plan. Discuss the risks and benefits with TREATMENT_OPTIONS.
   - Review PATIENT_GENETIC_PROFILE and recommend suitable MEDICATIONS. Include possible risks and benefits.
+    
 - **Sample Assistant Output:**
 ```
 PERSONALIZED_TREATMENT_PLAN:

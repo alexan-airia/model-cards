@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-10-16
 
 ### Description
-- **Summary:** 
+- **Summary:** Airia's AI medical chatbot is designed to provide general health information and guidance based on user input. It offers valuable support by assessing symptoms, suggesting general health tips, and educating users about common conditions. Its primary value lies in empowering individuals to make informed decisions about their health and encouraging proactive management of their well-being. By delivering user-friendly and accessible health insights, the model serves as a helpful resource for those seeking initial guidance while emphasizing the importance of consulting healthcare professionals for specific medical concerns.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 - **Recommended Temperature:** 0.1
 

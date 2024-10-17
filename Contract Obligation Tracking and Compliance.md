@@ -4,9 +4,9 @@
 
 ### Model Name
 
-- **Name:** ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-08:AGFche8f
-- **Version:** 1.0
-- **Date of Release:** 2024-10-08
+- **Name:** ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-11:AHA8kb5J
+- **Version:** 1.1
+- **Date of Release:** 2024-10-11
 
 ### Description
 
@@ -61,14 +61,20 @@
 
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
-| 1.0            | 2024-10-08  | Initial release               | N/A | N/A |
+| 1.0            | 2024-10-08   | Initial release               | N/A | N/A |
+| 1.1            | 2024-10-11   | Updated Training Data         | N/A | N/A |
 
 ### Release Notes
 
 #### Version Changes
 
 - **v1.0** (Release Date: 2024-10-08)
+  - Model name: ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-08:AGFche8f
   - Initial release.
+
+- **v1.1** (Release Date: 2024-10-11)
+  - Model name: ft:gpt-4o-2024-08-06:airia:contract-obligation-tracking-2024-10-11:AHA8kb5J
+  - Updated Training Data
 
 ## Contact Information
 

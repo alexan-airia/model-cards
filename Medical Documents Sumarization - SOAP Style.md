@@ -25,7 +25,7 @@
 - **Non-intended Use Cases:** This model should not be used for providing final health advice or in highly sensitive health contexts without oversight by a medical professional.
 
 ### Target Audience
-- **Users:** Patients, healthcare providers, pharmacists, genetic counselors, insurers, researchers, wellness clinics, family members.
+- **Users:** Patients, healthcare providers, pharmacists, insurers, researchers, wellness clinics, family members.
 
 ### Sample interaction
 - **Sample User Input:** 

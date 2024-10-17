@@ -48,11 +48,20 @@
     
 - **Sample Assistant Output:**
 ```
-**1. Summary of Key Symptoms and Relevant Medical History:** This section provides a concise overview of the main symptoms the patient is experiencing.
-**2. Potential Diagnoses or Conditions to Consider:** A list with possible medical conditions or diagnoses that could explain the symptoms. This is not a definitive diagnosis but rather a starting point for further investigation.
-**3. Recommended Next Steps** This section outlines suggested actions for the patient to take, such as consulting a healthcare provider, specific tests to consider, or lifestyle modifications.
-**4. Urgent Warnings** If any symptoms indicate a potentially serious or life-threatening condition, the model will provide immediate warnings and advise seeking urgent medical attention.
-**5. General Health Advice** This includes general tips and recommendations for managing symptoms or improving overall health, which can be applied while awaiting a professional medical evaluation.
+**1. Summary of Key Symptoms and Relevant Medical History:**
+This section provides a concise overview of the main symptoms the patient is experiencing.
+
+**2. Potential Diagnoses or Conditions to Consider:**
+A list with possible medical conditions or diagnoses that could explain the symptoms. This is not a definitive diagnosis but rather a starting point for further investigation.
+
+**3. Recommended Next Steps**
+This section outlines suggested actions for the patient to take, such as consulting a healthcare provider, specific tests to consider, or lifestyle modifications.
+
+**4. Urgent Warnings**
+If any symptoms indicate a potentially serious or life-threatening condition, the model will provide immediate warnings and advise seeking urgent medical attention.
+
+**5. General Health Advice**
+This includes general tips and recommendations for managing symptoms or improving overall health, which can be applied while awaiting a professional medical evaluation.
 ```
 
 ## Maintenance and Updates

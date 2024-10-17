@@ -17,11 +17,16 @@
 
 ### Use Cases
 - **Primary Use Cases:**
-  - Symptom Assessment: Provide initial health assessments based on user-reported symptoms.
-  - General Health Advice: Offer tips for maintaining a healthy lifestyle and managing minor ailments.
-  - Medication Information: Explain uses, side effects, and interactions of common medications.
-  - Preventive Care Tips: Suggest preventive measures for common health issues.
-  - First Aid Guidance: Provide basic first aid instructions for minor injuries.
+  - Symptom Assessment: 
+    Provide initial health assessments based on user-reported symptoms.
+  - General Health Advice: 
+    Offer tips for maintaining a healthy lifestyle and managing minor ailments.
+  - Medication Information: 
+    Explain uses, side effects, and interactions of common medications.
+  - Preventive Care Tips: 
+    Suggest preventive measures for common health issues.
+  - First Aid Guidance: 
+    Provide basic first aid instructions for minor injuries.
 
 - **Non-intended Use Cases:** This model should not be used for providing final health advice or in highly sensitive health contexts without oversight by a medical professional.
 

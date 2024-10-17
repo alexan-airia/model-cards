@@ -1,4 +1,4 @@
-# Genetic testing
+# Genetic Evaluation
 
 ## Model Overview
 
@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-10-15
 
 ### Description
-- **Summary:** Airia's Genetic Test model delivers targeted treatment by suggesting the best medications and adjusting doses based on genetic data, minimizing side effects and enhancing effectiveness. It also provides additional recommendations, such as tailored screening schedules and preventive care strategies, to manage genetic risks. This personalized approach optimizes both immediate treatment outcomes and long-term health by anticipating future risks and allowing ongoing adjustments to the care plan.
+- **Summary:** Airia's Genetic Evaluation model delivers targeted treatment by suggesting the best medications and adjusting doses based on genetic data, minimizing side effects and enhancing effectiveness. It also provides additional recommendations, such as tailored screening schedules and preventive care strategies, to manage genetic risks. This personalized approach optimizes both immediate treatment outcomes and long-term health by anticipating future risks and allowing ongoing adjustments to the care plan.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 - **Recommended Temperature:** 0.1
 

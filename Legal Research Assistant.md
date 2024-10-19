@@ -1,4 +1,4 @@
-# Legal Research Assistant
+vv# Legal Research Assistant
 
 ## Model Overview
 
@@ -9,7 +9,7 @@
 
 ### Description
 - **Summary:** 
-- **Architecture:** 
+- **Architecture:** Fine-tune gpt-4o-2024-08-06.
 - **Recommended Temperature:** 0.1
 
 ## Intended Use
@@ -26,9 +26,17 @@
 
 ### Sample interaction
 - **Sample User Input:**
-  - Kindly provide a litigation strategy: [LEGAL PRECEDENTS and CASE FACTS].
-  - Could you offer a comprehensive assessment of the litigation approach for this case: [LEGAL PRECEDENTS and CASE FACTS].
-  - Create a litigation strategy, based on the case facts and legal precedent I will show you, highlighting key strengths and risks: [LEGAL PRECEDENTS and CASE FACTS].
+  Ask for legal researching assistance for a particular case or legal issue:
+  Conduct legal research for the provided case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Analyze the case with relevant legal precedents. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Research legal rulings that apply to this case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Perform a case law analysis for the given situation. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Summarize legal findings for the specified case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Evaluate how recent rulings affect this case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Investigate relevant legal principles for the case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Provide a legal review of the specified case details. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Assess case law implications for the given issue. [LEGAL ISSUE OR SPECIFIC CASE]  
+  Analyze court decisions that may impact this case. [LEGAL ISSUE OR SPECIFIC CASE]  
 
 - **Sample Assistant Output:**
 

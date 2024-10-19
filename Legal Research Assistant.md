@@ -27,16 +27,17 @@ vv# Legal Research Assistant
 ### Sample interaction
 - **Sample User Input:**
   Ask for legal researching assistance for a particular case or legal issue:
-  Conduct legal research for the provided case. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Analyze the case with relevant legal precedents. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Research legal rulings that apply to this case. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Perform a case law analysis for the given situation. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Summarize legal findings for the specified case. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Evaluate how recent rulings affect this case. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Investigate relevant legal principles for the case. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Provide a legal review of the specified case details. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Assess case law implications for the given issue. [LEGAL ISSUE OR SPECIFIC CASE]  
-  Analyze court decisions that may impact this case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  
+  - Conduct legal research for the provided case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Analyze the case with relevant legal precedents. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Research legal rulings that apply to this case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Perform a case law analysis for the given situation. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Summarize legal findings for the specified case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Evaluate how recent rulings affect this case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Investigate relevant legal principles for the case. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Provide a legal review of the specified case details. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Assess case law implications for the given issue. [LEGAL ISSUE OR SPECIFIC CASE]  
+  - Analyze court decisions that may impact this case. [LEGAL ISSUE OR SPECIFIC CASE]  
 
 - **Sample Assistant Output:**
 

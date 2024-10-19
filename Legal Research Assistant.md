@@ -43,7 +43,7 @@ vv# Legal Research Assistant
 
 ```
 ## 1. Brief Overview of Relevant Cases and Key Findings
-## 2. Application of Rulings between parties
+## 2. Application of Rulings to defendant/plaintiff
 ## 3. Potential Arguments Based on These Rulings
 ## 4. Shifts in Legal Interpretation or Precedent
 ## 5. Recommendations for Adjusting Litigation Strategy

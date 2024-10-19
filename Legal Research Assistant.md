@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-10-09
 
 ### Description
-- **Summary:** 
+- **Summary:** Airia's Legal Research Assistant delivers legal research by analyzing vast amounts of legal documents and case law to generate relevant insights. It identifies key precedents, arguments, and legal principles, helping legal professionals quickly understand complex issues and enhance their litigation strategies. By saving time and improving accuracy, it allows lawyers to focus on higher-level decision-making.
 - **Architecture:** Fine-tune gpt-4o-2024-08-06.
 - **Recommended Temperature:** 0.1
 
@@ -16,9 +16,8 @@
 
 ### Use Cases
 - **Primary Use Cases:**
-  - 
-  - 
-  - 
+  - Legal research analysis.
+  - Case Analysis: Quickly summarizes relevant rulings for case strategy.
 - **Non-intended Use Cases:** This model is not intended for use in generating legal advice or for handling highly sensitive or classified documents without oversight.
 
 ### Target Audience

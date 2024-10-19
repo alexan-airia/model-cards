@@ -1,4 +1,4 @@
-vv# Legal Research Assistant
+# Legal Research Assistant
 
 ## Model Overview
 

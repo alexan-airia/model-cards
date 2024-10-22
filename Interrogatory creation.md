@@ -3,9 +3,9 @@
 ## Model Overview
 
 ### Model Name
-- **Name:** ft:gpt-4o-2024-08-06:airia:claude-complaint-to-interrogatory-v4:A8YkKSZF
-- **Version:** 1.0
-- **Date of Release:** 2024-09-17
+- **Name:** ft:gpt-4o-2024-08-06:airia:complaint-to-interrogatory-creation-2024-10-22:ALHjZDbO
+- **Version:** 1.1
+- **Date of Release:** 2024-10-22
 
 ### Description
 - **Summary:** The model is a tool designed to improve lawyers' efficiency in the litigation process, specifically during the discovery phase. It helps generate a first version of interrogatories based on case information and legal documents such as complaints, answers to complaints, financial statements, etc. The model avoids creating simple yes/no questions or asking for specific documents, instead focusing on more detailed and open-ended queries to elicit meaningful information.
@@ -41,12 +41,16 @@
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 1.0            | 2024-09-17   | Initial release               | N/A | N/A |
+| 1.1            | 2024-10-22   | System prompt no longer needed  | Resolved        | |
 
 
 ### Release Notes
 #### Version Changes
 - **v1.0** (Release Date: 2024-09-17)
+  - Model name:ft:gpt-4o-2024-08-06:airia:claude-complaint-to-interrogatory-v4:A8YkKSZF
   - Initial release.
+- **v1.1** (Release Date: 2024-10-22)
+  - Model was trained without system prompt.
 
 ## Contact Information
 

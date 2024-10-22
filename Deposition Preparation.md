@@ -53,7 +53,7 @@
   - Initial release with basic deposition creation capabilities for litigation. 
 - **v1.1** (Release Date: 2024-10-22)
   - Trained without system prompt.
-  - Add the following sections:
+  - New sections added to the response:
     - Potential areas of witness vulnerability to explore
     - Strategies for handling potential objections
     - Areas to avoid that might strengthen the opposition's case. Format your response using markdown for clear organization.

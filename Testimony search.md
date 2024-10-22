@@ -61,7 +61,7 @@ A list eith the top 5 most similar cases, with relevant information about them.
 - **v1.0** (Release Date: 2024-09-29)
   - Initial release.
 - **v1.1** (Release Date: 2024-10-22)
-  - Trained without system prompt.
+  - This model was trained without system prompt.
 
 ## Contact Information
 

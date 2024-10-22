@@ -3,7 +3,7 @@
 ## Model Overview
 
 ### Model Name
-- **Name:** ft:gpt-4o-2024-08-06:airia:deposition-creation-v1:ABxIY337 
+- **Name:** ft:gpt-4o-2024-08-06:airia:deposition-preparation-2024-10-22:ALF0rEw0
 - **Version:** 1.1
 - **Date of Release:** 2024-10-22
 
@@ -49,8 +49,14 @@
 
 ### Release Notes
 #### Version Changes
-- **v1.0** (Release Date: 2024-10-22)
+- **v1.0** (Release Date: 2024-09-30)
   - Initial release with basic deposition creation capabilities for litigation. 
+- **v1.1** (Release Date: 2024-10-22)
+  - Trained without system prompt.
+  - Add the following sections:
+    - Potential areas of witness vulnerability to explore
+    - Strategies for handling potential objections
+    - Areas to avoid that might strengthen the opposition's case. Format your response using markdown for clear organization.
 
 
 ## Contact Information

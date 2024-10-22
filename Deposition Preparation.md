@@ -43,7 +43,7 @@
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 1.0            | 2024-09-30  | Initial release               | N/A | N/A |
-| 1.1            | 2024-10-22  | System prompt no longer needed. | N/A | N/A |
+| 1.1            | 2024-10-22  | System prompt no longer needed and new sections added to respone. | N/A | N/A |
 
 
 

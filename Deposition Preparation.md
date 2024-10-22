@@ -8,7 +8,7 @@
 - **Date of Release:** 2024-10-22
 
 ### Description
-- **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
+- **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details and documents related to the case.
 
 - **Architecture:**  gpt-4o-2024-08-06 fine-tuned.
 - **Recommended Temperature:** 0.1

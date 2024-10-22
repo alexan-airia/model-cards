@@ -4,8 +4,8 @@
 
 ### Model Name
 - **Name:** ft:gpt-4o-2024-08-06:airia:deposition-creation-v1:ABxIY337 
-- **Version:** 1.0
-- **Date of Release:** 2024-09-30
+- **Version:** 1.1
+- **Date of Release:** 2024-10-22
 
 ### Description
 - **Summary:** This model is fine-tuned for drafting depositions, this model generates relevant questions based on case details.
@@ -43,12 +43,13 @@
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 1.0            | 2024-09-30  | Initial release               | N/A | N/A |
+| 1.1            | 2024-10-22  | System prompt no longer needed. | N/A | N/A |
 
 
 
 ### Release Notes
 #### Version Changes
-- **v1.0** (Release Date: 2024-09-30)
+- **v1.0** (Release Date: 2024-10-22)
   - Initial release with basic deposition creation capabilities for litigation. 
 
 

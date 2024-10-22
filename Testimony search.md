@@ -3,8 +3,8 @@
 ## Model Overview
 
 ### Model Name
-- **Name:** ft:gpt-4o-2024-08-06:airia:testimony-search-v1:AD1Gh4Ov
-- **Version:** 1.0
+- **Name:** ft:gpt-4o-2024-08-06:airia:testimony-search-2024-10-22:ALAsroEx
+- **Version:** 1.1
 - **Date of Release:** 2024-09-29
 
 ### Description
@@ -53,12 +53,15 @@ A list eith the top 5 most similar cases, with relevant information about them.
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 1.0            | 2024-09-29   | Initial release               |  N/A  | N/A |
+| 1.1            | 2024-10-22   | System prompt no longer needed               |  N/A  | N/A |
 
 
 ### Release Notes
 #### Version Changes
 - **v1.0** (Release Date: 2024-09-29)
   - Initial release.
+- **v1.1** (Release Date: 2024-10-22)
+  - This model was trained without system prompt.
 
 ## Contact Information
 

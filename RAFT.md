@@ -35,12 +35,14 @@
 
 - **Sample User Input:**
 
-TODO
+User will need to provide a set of documents and a sample query based on the provided context.
+
+For this example, we will use [Nature Formatting Guide](https://www.nature.com/nature/for-authors/formatting-guide). The user could ask for something like "What is the usual page limit for articles?"
 
 - **Sample Assistant Output:**
 
 ```markdown
-TODO
+Physical sciences papers do not normally exceed 6 pages on average, and biological, clinical and social-sciences papers do not normally exceed 8 pages on average.
 ```
 
 ## Maintenance and Updates

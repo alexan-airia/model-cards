@@ -1,4 +1,4 @@
-# RAFT
+# Airia's Reasoning Model
 
 ## Model Overview
 

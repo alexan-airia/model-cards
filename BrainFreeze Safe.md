@@ -1,4 +1,4 @@
-# BrainFreeze Safe Model
+# SafeLearn Model
 
 ## Model Overview
 
@@ -10,7 +10,7 @@
 
 ### Description
 
-- **Summary:** The BrainFreeze Safe Model has been developed with a focus on security and safety to ensure that it avoids engaging in or generating content related to sensitive, harmful, or biased topics. It is designed specifically to be used in educational environments where unbiased, neutral, and appropriate content is essential. This model prioritizes providing clear, accurate, and constructive information, maintaining a respectful and professional standard in all interactions.
+- **Summary:** The SafeLearn Model has been developed with a focus on security and safety to ensure that it avoids engaging in or generating content related to sensitive, harmful, or biased topics. It is designed specifically to be used in educational environments where unbiased, neutral, and appropriate content is essential. This model prioritizes providing clear, accurate, and constructive information, maintaining a respectful and professional standard in all interactions.
 
 - **Recommended Temperature:** 0.1
 

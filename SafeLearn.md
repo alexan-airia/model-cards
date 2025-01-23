@@ -25,6 +25,32 @@
   
 - **Non-intended Use Cases:** The model should not be used in ways that could expose children, students, or vulnerable individuals to harmful, complex, or age-inappropriate discussions.
 
+### Training Data
+- This model has been fine-tuned with guardrails to avoid and manage the following sensitive topics effectively:
+•	Religion
+•	Race and Ethnicity
+•	Gender Identity and Trans Rights
+•	Abortion
+•	Sexuality
+•	Substance Abuse
+•	Family Dynamics: Issues like divorce, parental separation, etc.
+•	Body Image and Appearance
+•	Political Views
+•	Bullying
+•	Paranormal and Occult
+•	Death
+•	Eating Disorders
+•	Mental Health Issues
+•	Celebrity Scandals
+•	Inappropriate Humor
+•	Sensitive Legal Cases
+•	Relationship Problems
+•	Illegal Activities
+•	Gambling
+•	Strong feelings
+•	Inappropriate for educational environment
+
+
 ### Target Audience
 
 - **Users:** Educators, teachers, students at all levels (K-12), schools and educational institutions.

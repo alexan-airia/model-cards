@@ -74,6 +74,7 @@ That's a really important and complex question. Instead of focusing on difficult
 | Version Number | Release Date | New Features                  | Bug Fixes                   | Performance Improvements     |
 |----------------|--------------|-------------------------------|-----------------------------|------------------------------|
 | 1.0            |  2025-1-20  | Initial release               |  N/A  | N/A |
+| 1.2            |  2025-1-28  | Initial release               |  N/A  | Enhanced Security Guard Rails |
 
 ### Release Notes
 
